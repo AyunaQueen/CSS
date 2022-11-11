@@ -1,0 +1,42 @@
+/*
+ Como usar CSS:
+   Sempre que queremos personalizar um elemento html 
+    devemos criar uma REGRA que é composta por um seletor
+     e algumas declarações:
+     html{
+        font-seze:10px;
+        font-family:"Open Sans",sans-serif;
+     }
+    Cada declaração é composta por propriedade e valor de propriedade
+
+    tipos de seletor:
+    Elemento:
+    nomedoelemento{
+
+    }
+    ID:
+    #nome_do_id{
+    }
+    Classe:
+    .nome_da_classe{
+
+    }
+   Atributo:
+    input[type="submit"]{}
+*/
+body{
+    background-color: #b7cff7;
+}
+ h1{
+    text-align: center;
+ }
+
+ .historia{
+    text-align:justify;
+ }
+
+ img{
+    width: 60%;
+    display: block;
+    margin: auto;
+ }
