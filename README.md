@@ -11,14 +11,6 @@
 </p>
 
 <div>
- <h1 align="center">:iphone: Layout :iphone:</h1>
- <p>
-  
- </p>
-</div>
-
-
-<div>
  <h2 align="center">🤔 Como Usar 🤔</h2>
 
    ```
