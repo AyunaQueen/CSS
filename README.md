@@ -25,10 +25,10 @@
    Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua máquina, veja em: https://flutter.dev/docs/get-started/install
    
    - Clone esse repositório:
-   $ git clone https://github.com/luizmineiro/PROG4_AVAL2.git
+   $ git clone https://github.com/luizmineiro/PROG4-AVAL2.git
 
    - Entre no diretório:
-   $ cd PROG4_AVAL2
+   $ cd PROG4-AVAL2
 
    - Instale as dependências:
    $ flutter pub get
