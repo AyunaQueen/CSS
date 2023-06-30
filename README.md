@@ -1,6 +1,6 @@
 <h1 align="center">:stars: Galaxy App :stars:</h1>
 <p align="center">
-<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" width="400px;"/>
+<img src="https://media.tenor.com/tUMRpkucZacAAAAM/space.gif" width="300px;"/>
 </p>
 
 <h2 align="center">:book: Sobre :book:</h2>
