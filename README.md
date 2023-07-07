@@ -13,6 +13,13 @@
 </p>
 
 <div>
+
+   <h2 align="center">Layout 🎨</h2>
+
+   <p align="center">
+      <img  src="https://cdn.discordapp.com/attachments/944300877274022039/1126973788223975444/telas_readme_movie.png" />
+   </p>
+
  <h2 align="center">🤔 Como Usar 🤔</h2>
 
    ```
