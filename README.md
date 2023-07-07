@@ -1,5 +1,5 @@
 <h1 align="center">
-   :movie_camera: Movies App :movie_camera:
+   :movie_camera: Movies.io :movie_camera:
 </h1>
 <p align="center">
     <img src="https://media.tenor.com/peUZH8Ww2lwAAAAC/cine-pel%C3%ADcula.gif " width="400" height="300""/>
@@ -8,7 +8,7 @@
 <h2 align="center">:book: Sobre :book:</h2>
    
 <p align="center">
-  3° Avaliação de Programação 4 - Movies App
+  3° Avaliação de Programação 4 - Movies.io
  <br> Grupo: Celenny Cristhyne, João Luiz Mineiro,Richelle Kim Mota Bahia
 </p>
 
