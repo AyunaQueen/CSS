@@ -2,7 +2,7 @@
    :movie_camera: Movies App :movie_camera:
 </h1>
 <p align="center">
-    <img src="https://media.tenor.com/peUZH8Ww2lwAAAAC/cine-pel%C3%ADcula.gif"/>
+    <img src="https://media.tenor.com/peUZH8Ww2lwAAAAC/cine-pel%C3%ADcula.gif " width="400" height="300""/>
 </p>
 
 <h2 align="center">:book: Sobre :book:</h2>
