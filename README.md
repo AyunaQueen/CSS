@@ -1,12 +1,14 @@
-<h1 align="center">:stars: Galaxy App :stars:</h1>
+<h1 align="center">
+   :movie_camera: Movies App :movie_camera:
+</h1>
 <p align="center">
-<img src="https://media.tenor.com/tUMRpkucZacAAAAM/space.gif" width="300px;"/>
+    <img src="https://media.tenor.com/peUZH8Ww2lwAAAAC/cine-pel%C3%ADcula.gif"/>
 </p>
 
 <h2 align="center">:book: Sobre :book:</h2>
    
 <p align="center">
-  2° Avaliação de Programação 4 - Galaxy App
+  3° Avaliação de Programação 4 - Movies App
  <br> Grupo: Celenny Cristhyne, João Luiz Mineiro,Richelle Kim Mota Bahia
 </p>
 
@@ -17,10 +19,10 @@
    Primeiro, configure corretamente o ambiente de desenvolvimento em Flutter na sua máquina, veja em: https://flutter.dev/docs/get-started/install
    
    - Clone esse repositório:
-   $ git clone https://github.com/luizmineiro/PROG4-AVAL2.git
+   $ git clone https://github.com/luizmineiro/PROG4-AVAL3.git
 
    - Entre no diretório:
-   $ cd PROG4-AVAL2
+   $ cd PROG4-AVAL3
 
    - Instale as dependências:
    $ flutter pub get
